@@ -1,0 +1,16 @@
+.isPlani
+{
+    color: hsl(0, 100%, 50%);
+    padding-left: 40%;
+    padding-bottom: 50px;
+    margin-top: 100px;
+}
+
+.gorev 
+{
+    padding-left: 5%;
+    padding-bottom: 30px;
+} 
+ul{
+    height: 300px;
+}
